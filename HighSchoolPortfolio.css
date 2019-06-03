@@ -1,6 +1,33 @@
 body{
 background-color: #4059FF;
 }
+.row{
+  width: 100%;
+  height: 300px;
+}
+#titlepic{
+  height:100%;
+  width: 26%;
+  background-image: url(http://p10cdn4static.sharpschool.com/userfiles/servers/server_71742/image/rileylogo.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+#title{
+  height: 100%;
+  width:46%;
+  display: inline-block;
+  text-align: center;
+}
+#titlepic2{
+  height: 100%;
+  width: 26%;
+  background-image: url(https://bloximages.chicago2.vip.townnews.com/palestineherald.com/content/tncms/assets/v3/editorial/9/8f/98f80372-b2f2-11e8-9f36-574cad17f126/5b9304afbb568.image.jpg?resize=400%2C328);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
 #titlediv{
   height: 50px;
   background-color: yellow;
@@ -10,8 +37,35 @@ h1{
   text-align: center;
   font-size: 50px;
   font-style: italic;
+  width: 32%;
+  height: 100%;
 }
 h2{
   text-align: center;
   font-size: 25px;
+}
+#summarydiv{
+  text-align: center;
+  font-size: 17.5px;
+  color: white;
+  font-weight: bold;
+}
+.row2{
+  width: 100%;
+  height: 75px;
+}
+#sports{
+  width: 45%;
+  height: fill;
+  font-size: 35px;
+}
+#clubs{
+  width: 49%;
+  height: fill;
+  float: right;
+  font-size: 35px;
+}
+.row3{
+  width: 100%;
+  height
 }
