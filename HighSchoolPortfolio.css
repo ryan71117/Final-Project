@@ -6,10 +6,16 @@ body{
   width: 26%;
   display: inline-block;
 }
-#title{
+#header{
   height: 100%;
-  width:46%;
-  display: inline-block;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  text-align: center;
+}
+#title {
+  height: 100%;
   text-align: center;
 }
 
