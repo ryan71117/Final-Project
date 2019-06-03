@@ -50,22 +50,18 @@ h2{
   color: white;
   font-weight: bold;
 }
-.row2{
+.row{
   width: 100%;
   height: 75px;
+  display: flex;
+  flex-direction: row;
 }
-#sports{
-  width: 45%;
-  height: fill;
-  font-size: 35px;
+.item {
+  width: 50%;
+  height: 100%;
 }
-#clubs{
-  width: 49%;
-  height: fill;
-  float: right;
-  font-size: 35px;
-}
-.row3{
+.link {
+  height: 100%;
   width: 100%;
-  height
+  z-index: 10;
 }
