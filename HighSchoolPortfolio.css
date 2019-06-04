@@ -44,6 +44,7 @@ h2{
   height: 75px;
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 }
 .item {
   width: 50%;
@@ -55,4 +56,5 @@ h2{
   display: block;
   color: yellow;
   text-decoration: none;
+  text-align: center;
 }
