@@ -1,1 +1,12 @@
-
+body{
+  background-color: #0111FF;
+}
+#xcpic{
+  width: 100%;
+  height: 100px;
+}
+#trackpic{
+  width: 100%;
+  height: 100%;
+}
+  
