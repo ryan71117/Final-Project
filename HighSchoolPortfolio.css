@@ -12,6 +12,7 @@ body{
   justify-content: space-between;
   flex-direction: row;
   text-align: center;
+  /*Creted Placed for the pictures on top.*/
 }
 #title {
   height: 100%;
@@ -45,6 +46,7 @@ h2{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  /*Spaced out all of the links*/
 }
 .item {
   width: 50%;
@@ -57,4 +59,5 @@ h2{
   color: yellow;
   text-decoration: none;
   text-align: center;
+  /*Orginized the links to each page*/
 }
